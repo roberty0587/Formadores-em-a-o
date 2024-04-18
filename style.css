@@ -86,3 +86,20 @@ text-align: center;
 padding: 24px 0;
 
 }
+
+.ferramentas-titulo{
+text-align: center;
+padding: 30px 0;
+
+}
+
+.ferramentas-todos{
+display: grid;
+grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
+
+.ferramentas{
+background-color: #D9D9D9;
+
+}
