@@ -103,3 +103,22 @@ grid-template-columns: 20% 20% 20% 20% 20%;
 background-color: #D9D9D9;
 
 }
+
+.rodape{
+    background-color:black;
+    text-align: center;
+}
+
+.imagem-rodape{
+    height:60px;
+    padding: 12px 0;
+    
+}
+
+.texto-rodape{
+text-align: center;
+color: white;
+padding: 15px;
+
+
+}
